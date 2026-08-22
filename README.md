@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, This is Reuben Vitalis 👋
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reuben-vitalis/)
 
@@ -8,7 +8,7 @@ I'm a 3rd year Cybersecurity student at **Moi University**, passionate about sec
 
 ### 🔭 Currently Working On
 
-I'm currently building **[current project name — e.g., a vulnerable web app for practicing exploits / a network intrusion detection script]**, where I'm focused on **[brief description of the goal or problem it solves]**. It's built using **[e.g., Python, Nmap, Wireshark, Burp Suite]**, and involves **[e.g., vulnerability scanning, packet analysis, exploit development — brief detail]**.
+I'm currently building **Garaking — a vulnerability scanner system that performs red teaming on your model and finally gives you the recommended solution to fix your system**, where I'm focused on **better humanity by making red teaming tasks be faster and sophisticated**. It's built using **Python, Nmap, Wireshark, Burp Suite**, and involves **vulnerability scanning, packet analysis, exploit development and a briefing on solutions**.
 
 ### 🛠️ Tools & Technologies
 
@@ -36,12 +36,12 @@ I'm currently building **[current project name — e.g., a vulnerable web app fo
 
 ### 🚀 Notable Projects
 
-**[Project Name 1](https://github.com/your-username/project-1)**
-Brief description of what it does, the problem it solves, and any interesting technical detail worth mentioning.
+**Garaking (https://github.com/reuben-vitalis/garaking)**
+A system vulnerability scanner with red teaming capabilities.
 *Tech stack: Python, Scapy, Wireshark*
 
-**[Project Name 2](https://github.com/your-username/project-2)**
-Brief description of what it does, the problem it solves, and any interesting technical detail worth mentioning.
+**D-NARSA(https://github.com/reuben-vitalis/dnarsa)**
+system architecture for digitizing DNA
 *Tech stack: Bash, Nmap, Metasploit*
 
 **[Project Name 3](https://github.com/your-username/project-3)**
@@ -60,3 +60,4 @@ Brief description of what it does, the problem it solves, and any interesting te
 I'm open to internships and entry-level Cybersecurity opportunities — feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle/)
+ 
