@@ -40,11 +40,11 @@ I'm currently building **Garaking — a vulnerability scanner system that perfor
 A system vulnerability scanner with red teaming capabilities.
 *Tech stack: Python, Scapy, Wireshark*
 
-**D-NARSA(https://github.com/reuben-vitalis/Dna_digitization)**
+**D-NARSA (https://github.com/reuben-vitalis/Dna_digitization)**
 system architecture for digitizing DNA
 *Tech stack: Bash, Nmap, Metasploit*
 
-**[Social-Sentinel](https://github.com/reuben-vitalis/Social-Sentinel)**
+**Social-Sentinel (https://github.com/reuben-vitalis/Social-Sentinel)**
 Social Sentinel is an open-source, lightweight Natural Language Processing (NLP) tool and interactive web application designed to analyze text messages and emails for social engineering tactics. By evaluating psychological manipulation, artificial urgency, and authority exploitation, Social Sentinel helps users and security analysts assess the potential threat level of incoming communications..
 *Tech stack: PHP, MySQL, Docker*
 
